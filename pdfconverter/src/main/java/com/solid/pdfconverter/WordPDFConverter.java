@@ -1,7 +1,8 @@
-package com.solid.pdfconverter.api;
+package com.solid.pdfconverter;
 
 import com.aspose.words.Document;
 import com.aspose.words.SaveFormat;
+import com.solid.pdfconverter.api.Converter;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

@@ -1,4 +1,6 @@
-package com.solid.pdfconverter.api;
+package com.solid.pdfconverter.core;
+
+import com.solid.pdfconverter.api.Converter;
 
 /**
  * Class PDFConverter

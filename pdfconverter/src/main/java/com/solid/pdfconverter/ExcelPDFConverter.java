@@ -1,8 +1,10 @@
-package com.solid.pdfconverter.api;
+package com.solid.pdfconverter;
 
 import com.aspose.cells.PdfCompliance;
 import com.aspose.cells.PdfSaveOptions;
 import com.aspose.cells.Workbook;
+import com.solid.pdfconverter.api.Converter;
+
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.InputStream;

@@ -1,6 +1,6 @@
-import com.solid.pdfconverter.api.ExcelPDFConverter;
-import com.solid.pdfconverter.api.PDFConverter;
-import com.solid.pdfconverter.api.WordPDFConverter;
+import com.solid.pdfconverter.ExcelPDFConverter;
+import com.solid.pdfconverter.core.PDFConverter;
+import com.solid.pdfconverter.WordPDFConverter;
 import org.junit.Test;
 
 import java.io.File;
